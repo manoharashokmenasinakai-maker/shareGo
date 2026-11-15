@@ -1,0 +1,6 @@
+{
+  "name": "ShareGo",
+  "description": "Smart auto-rickshaw ride-sharing platform connecting co-passengers to share rides, split fares, review travel companion profiles, and ensure safe travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
